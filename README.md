@@ -5,9 +5,9 @@ Foram desenvolvidos os arquivos triangle.h (cabeçalho) e triangle.c (implementa
 
 O TAD permite:
 
-_Definir os lados de um triângulo.
-_Identificar seu tipo (equilátero, isósceles, escaleno ou inválido).
-_Exibir os lados formatados.
-_Calcular o perímetro.
-_Calcular a área utilizando a fórmula de Heron.
-_Verificar se dois triângulos são similares com base na proporção de seus lados
+_Definir os lados de um triângulo.</br>
+_Identificar seu tipo (equilátero, isósceles, escaleno ou inválido).</br>
+_Exibir os lados formatados.</br>
+_Calcular o perímetro.</br>
+_Calcular a área utilizando a fórmula de Heron.</br>
+_Verificar se dois triângulos são similares com base na proporção de seus lados</br>
