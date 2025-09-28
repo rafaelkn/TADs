@@ -1,13 +1,12 @@
-# TADs
+# Triangle ADT in C
 
-Este projeto implementa um TAD (Tipo Abstrato de Dados) em C para manipulação de triângulos.
-Foram desenvolvidos os arquivos triangle.h (cabeçalho) e triangle.c (implementação), além de um test.c utilizado para validar as funções.
+This project implements an **ADT (Abstract Data Type) in C to manipulate triangles**.  
+It includes the files **triangle.h** (header) and **triangle.c** (implementation), as well as a **test.c** file used to validate the functions.
 
-O TAD permite:
-
-_Definir os lados de um triângulo.</br>
-_Identificar seu tipo (equilátero, isósceles, escaleno ou inválido).</br>
-_Exibir os lados formatados.</br>
-_Calcular o perímetro.</br>
-_Calcular a área utilizando a fórmula de Heron.</br>
-_Verificar se dois triângulos são similares com base na proporção de seus lados</br>
+## Features
+- Define the sides of a triangle
+- Identify its type (equilateral, isosceles, scalene, or invalid)
+- Display the sides in a formatted way
+- Calculate the perimeter
+- Calculate the area using Heron’s formula
+- Check whether two triangles are similar based on the proportion of their sides
